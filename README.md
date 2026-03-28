@@ -239,6 +239,8 @@ The current implementation is a foundational version of Salary Streams. Below ar
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
 
-*Built with ❤️ on Stellar Soroban — the future of programmable payroll.*
+#contracts details
+contract ID : CC5R2ZENAYINY6EM5Z6D4TBDSR57FUHS7EORIMTBEINZ47BVXOWJBSYG
+<img width="1906" height="960" alt="image" src="https://github.com/user-attachments/assets/e648b45f-57e8-45f3-b56a-cabaa48e7fd0" />
+
